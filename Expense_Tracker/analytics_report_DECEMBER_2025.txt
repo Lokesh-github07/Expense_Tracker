@@ -1,0 +1,27 @@
+==================================================
+MONTHLY EXPENSE ANALYTICS REPORT
+==================================================
+
+Month: DECEMBER 2025
+Report Date: 2025-12-10
+--------------------------------------------------
+
+SUMMARY:
+--------------------------------------------------
+Total Expenses: $1130.00
+Number of Expenses: 4
+Average per Expense: $282.50
+Date Range: 2025-12-10 to 2025-12-10
+
+CATEGORY BREAKDOWN:
+--------------------------------------------------
+Entertainment       : $   1130.00 ( 100.0%)
+
+DETAILED EXPENSES:
+--------------------------------------------------
+Date         Amount     Category             Description
+--------------------------------------------------
+2025-12-10   $   500.00 Entertainment        Food
+2025-12-10   $   200.00 Entertainment        Fule
+2025-12-10   $   300.00 Entertainment        Tution Fee
+2025-12-10   $   130.00 Entertainment        Miscellaneous
