@@ -145,7 +145,7 @@ Steps
 
 Clone the repository:
 
-git clone https://github.com/yourusername/expense-tracker.git
+git clone https://github.com/Lokesh-github07/expense-tracker.git
 
 
 Open the project in Eclipse or VS Code.
