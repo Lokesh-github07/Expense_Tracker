@@ -1,4 +1,5 @@
 💰 Expense Tracker with Monthly Analytics
+**Internship Final Task**
 
 A desktop-based personal finance management application built using Java and JavaFX.
 This application helps users record, categorize, and analyze their expenses with powerful monthly filtering and data visualization features.
